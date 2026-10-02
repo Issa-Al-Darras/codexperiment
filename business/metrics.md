@@ -7,12 +7,14 @@ Last updated: 2026-10-02
 | Total expense | AED 0 |
 | Collected revenue | AED 0 |
 | Net profit | AED 0 |
-| Prospects contacted | 0 |
+| Prospects contacted | 5 |
 | Replies | 0 |
 | Free audits requested | 0 |
 | Free audits delivered | 0 |
 | Paid audits sold | 0 |
 | Landing-page visits | Not yet available |
+
+First outreach batch sent: 2026-10-02. All five messages were individually written from public website observations and included a no-follow-up opt-out.
 
 ## Funnel definitions
 
