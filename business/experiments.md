@@ -6,7 +6,7 @@
 - What is being tested: Personalized email with one observed conversion issue and a link to request the free mini-audit.
 - Cost: AED 0.
 - Expected result: 20 contacts → 3 replies → 2 mini-audits → 1 paid audit at AED 349.
-- Actual result: 5 of 20 individualized emails sent on 2026-10-02; replies and conversions pending.
+- Actual result: 5 of 20 individualized emails delivered on 2026-10-02; one additional published address bounced and was replaced. Replies and conversions pending.
 - What was learned: Pending.
 - Decision: Iterate after 20 delivered emails or seven days, whichever comes first.
 
