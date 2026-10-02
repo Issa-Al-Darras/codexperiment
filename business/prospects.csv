@@ -1,6 +1,7 @@
 date,company,website,email,observed_issue,status,gmail_thread_id,next_action
-2026-10-02,Dubai Business Services,https://www.dubaibusinessservices.com/contact-us/,Inquiry@dubaibusinessservices.com,Visible Rank Math 15/100 output on high-intent contact page,sent,1a0fe0ca01c3aa23,Wait for reply; no unsolicited follow-up
+2026-10-02,Dubai Business Services,https://www.dubaibusinessservices.com/contact-us/,Inquiry@dubaibusinessservices.com,Visible Rank Math 15/100 output on high-intent contact page,bounced,1a0fe0ca01c3aa23,Do not retry invalid address
 2026-10-02,Biz Pulse,https://bizpulse.ae/,info@bizpulse.ae,Generic hero language delays concrete differentiation,sent,1a0fe0ca5c3cbd8d,Wait for reply; no unsolicited follow-up
 2026-10-02,Gulf Corporate Services,https://setupdubai.business/contact/,info@setupdubai.business,Contact form does not set response-time or next-step expectation,sent,1a0fe0ca898ada01,Wait for reply; no unsolicited follow-up
 2026-10-02,Danburite Corporate Services,https://www.danburitecorp.com/contact-us,info@danburite.ae,Placeholder-looking international phone numbers create a trust risk,sent,1a0fe0caf015a9cf,Wait for reply; no unsolicited follow-up
 2026-10-02,Global Edge Corporate Services,https://www.globaledgecorporate.com/,info@globaledgecorporate.com,Broad claims precede concrete positioning or outcome,sent,1a0fe0cb4c04bf74,Wait for reply; no unsolicited follow-up
+2026-10-02,Cluster Corporate Services,https://www.clustercsp.com/contact,info@clustercsp.com,Contact form does not set response-time or next-step expectation,sent,1a0fe0ddd87063ca,Wait for reply; no unsolicited follow-up
