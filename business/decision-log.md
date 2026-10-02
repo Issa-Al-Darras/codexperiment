@@ -24,3 +24,7 @@ Decision: launch the conversion teardown. It combines the fastest credible path 
 ## 2026-10-02 — Spend decision
 
 Spend AED 0 until at least one prospect requests a full audit. Use the Vercel subdomain, connected Gmail, and organic one-to-one outreach.
+
+## 2026-10-02 — Production launch
+
+Launched at https://codexperiment.vercel.app on Vercel's free tier. The public deployment returned HTTP 200 and the primary enquiry path rendered correctly. No domain or hosting spend was incurred.
