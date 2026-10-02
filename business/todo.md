@@ -9,8 +9,8 @@
 - [ ] Deploy production site on Vercel
 - [ ] Commit source and business records to `Issa-Al-Darras/codexperiment`
 - [ ] Verify mobile and desktop flow
-- [ ] Research first five qualified prospects
-- [ ] Draft individualized outreach
+- [x] Research first five qualified prospects
+- [x] Send first five individualized outreach emails
 
 ## Requires owner action only when a buyer is ready
 
